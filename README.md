@@ -2,5 +2,6 @@
 
 Zmena >]
 
-a dalsi zmena.... \n
+a dalsi zmena....
+
 Blablablaasfsef...
